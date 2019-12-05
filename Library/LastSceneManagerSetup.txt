@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Kokiri Forest.unity
+  isLoaded: 1
+  isActive: 1
