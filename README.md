@@ -2,6 +2,8 @@
 
 <h2>Download demo <a href="https://github.com/Rouem/-API-WalkDetector-Unity/raw/master/WalkDemo.apk">HERE!</a></h2>
 
+<h3>Meet the academic work where this API has been used <a href="https://github.com/Rouem/thewanderer-tcc-exergame">HERE!</a></h3>
+
 <b>API and demo developed by Raphael Felipe do Vale Lucena</b>
 
 <h3>Introdution</h3>
