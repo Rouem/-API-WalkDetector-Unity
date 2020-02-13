@@ -145,12 +145,18 @@ public class WalkDetector : MonoBehaviour {
 			xpass = 0.005f;
 		}else{
 			//if another device (best values!)
+			UseStandardValues();
+		}
+	}
+
+	void UseStandardValues(){
+		
 			minYpass = 0.0001f;
 			maxYpass = 0.0015f;
 			middleYpass = 0.00025f;
 			zpass = 0.00025f;
 			xpass = 0.0045f;
-		}
+
 	}
 	
 }

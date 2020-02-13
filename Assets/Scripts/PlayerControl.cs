@@ -22,8 +22,7 @@ public class PlayerControl : MonoBehaviour {
 	
 		cam = Instantiate(CamPrefab) as GameObject;
 		cam.GetComponent<CamControl>().cameraPosition = CamPos;
-
-		device = new WalkDetector();
+		device = GetComponent<WalkDetector>();
 	}		
 
 	void Update (){
