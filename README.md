@@ -1,4 +1,4 @@
-<h1>WALK DETECTOR API - UNITY</h1>
+<h1>WALK DETECTOR API - UNITY v.2017.4</h1>
 
 <h2>Download demo <a href="https://github.com/Rouem/-API-WalkDetector-Unity/raw/master/WalkDemo.apk">HERE!</a></h2>
 
